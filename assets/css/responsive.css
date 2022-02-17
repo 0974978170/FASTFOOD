@@ -1,0 +1,44 @@
+@media (max-width:768px) {
+    .top {
+        padding: 0 12px;
+    }
+
+    .about-item {
+        width: 100%;
+    }
+
+    .food-items {
+        width: 100%;
+        margin-left: 20%;
+    }
+
+    .phan-hoi-item {
+        width: 100%;
+        margin-bottom: 24px;
+    }
+
+    .team-items {
+        width: 100%;
+        margin-bottom: 24px;
+    }
+
+    .pd-bt {
+        margin-bottom: 32px;
+    }
+    .footer-item {
+        width: 100%;
+        margin-bottom: 28px;
+    }
+    
+}
+
+@media (max-width: 390px) {
+    .footer-item {
+        width: 100%;
+        margin-bottom: 28px;
+    }
+
+    .footer-copyright {
+        padding: 12px;
+    }
+}
